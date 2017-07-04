@@ -25,6 +25,7 @@ public class CalcServiceWithRemoteRateTestWithConstructorMock {
 
     }
 
+
     //测试是否正确的调用 rateService 的 currentRate
     @Test
     public void test_compoundingCalcWithMagicUserId() throws Exception {

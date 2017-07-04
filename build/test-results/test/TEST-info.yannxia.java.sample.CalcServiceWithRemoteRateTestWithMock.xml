@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="info.yannxia.java.sample.CalcServiceWithRemoteRateTestWithMock" tests="2" skipped="0" failures="0" errors="0" timestamp="2017-07-04T02:46:10" hostname="yangxueyingMacBook-Pro.local" time="0.016">
+  <properties/>
+  <testcase name="test_compoundingCalc" classname="info.yannxia.java.sample.CalcServiceWithRemoteRateTestWithMock" time="0.015"/>
+  <testcase name="test_compoundingCalcWithUserId" classname="info.yannxia.java.sample.CalcServiceWithRemoteRateTestWithMock" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
